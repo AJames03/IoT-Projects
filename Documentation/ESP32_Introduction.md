@@ -21,11 +21,13 @@
 - **Step 3:** Go to File > Preference > Additional Board Manager URLs
 - **Step 4:** In Additional Board Manager URLs paste this:
    &nbsp;
+  
     **Install ESP32 Board**
     ```md
     https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
     ```
     and then paste also this in Additional Board Manager URLs
+  
     **Software Packages**
     ```md
     https://dl.espressif.com/dl/package_esp32_index.json
